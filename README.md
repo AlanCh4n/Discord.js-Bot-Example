@@ -2,10 +2,10 @@
 
 This is just an example bot for people who have no knowledge on discord.js.
 To get the bot working you will to go to https://discord.com/developers/applications and create a new application.
-![scr1](https://raw.githubusercontent.com/AlanCh4n/Discord.js-Bot-Example/main/images/scr1.PNG?token=AQ5FXTGBEXZDUF3T5CQ3ZU27VZQGA)
+![scr1](https://github.com/AlanCh4n/Discord.js-Bot-Example/blob/main/images/scr1.PNG?raw=true)
 ![](https://github.com/AlanCh4n/Discord.js-Bot-Example/blob/main/images/scr2.PNG?raw=true)
 ![](https://github.com/AlanCh4n/Discord.js-Bot-Example/blob/main/images/scr3.PNG?raw=true)
-![](https://raw.githubusercontent.com/AlanCh4n/Discord.js-Bot-Example/main/images/scr4.PNG?token=AQ5FXTAQZ4XIBK2XNTHBODC7VZQL6)
+![](https://github.com/AlanCh4n/Discord.js-Bot-Example/blob/main/images/scr4.PNG?raw=true)
 ![](https://github.com/AlanCh4n/Discord.js-Bot-Example/blob/main/images/scr5.PNG?raw=true)
 
 After copying the token, create a folder on your desktop and name whatever you want.
