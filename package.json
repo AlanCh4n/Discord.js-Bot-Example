@@ -1,0 +1,23 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "A bot made by AlanCh4n. Subscribe on YouTube : Alan's GameClass",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanCh4n/Discord.js-Bot-Example.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "bot"
+  ],
+  "author": "AlanCh4n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanCh4n/Discord.js-Bot-Example/issues"
+  },
+  "homepage": "https://github.com/AlanCh4n/Discord.js-Bot-Example#readme"
+}
